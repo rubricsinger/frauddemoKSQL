@@ -1,0 +1,15 @@
+example valid names :- 
+
+
+-- modify the elements for payments to try inserting
+-- Patrick Stewert 
+{
+  "formdata": "{\"ACCOUNT_ID\":\"3530111333300001\",\"MERCH_NAME\":\"Waitrose\",\"MERCH_COUNTRY_NAME\":\"England\",\"AMOUNT\":\"10.99\",\"TRANSACTION_TYPE\":\"payment\",\"TRANSACTION_ID\":\"123123\",\"TRANSACTION_TIME\":\"null\",\"IP_ADDRESS\":\"192.168.101.3\",\"BENEF_NAME\":\"null\",\"BENEF_COUNTRY_NAME\":\"null\"}"
+}
+--
+-- modify the elements to try inserting
+--  
+-- Carl Sagan
+{
+  "formdata": "{\"ACCOUNT_ID\":\"3530111333300006\",\"BENEF_NAME\":\"Dodgy Dave\",\"BENEF_COUNTRY_NAME\":\"England\",\"AMOUNT\":\"15.99\",\"TRANSACTION_TYPE\":\"transfer\",\"TRANSACTION_ID\":\"123123\",\"TRANSACTION_TIME\":\"null\",\"IP_ADDRESS\":\"192.168.101.3\",\"MERCH_NAME\":\"null\",\"MERCH_COUNTRY_NAME\":\"null\"}"
+}
